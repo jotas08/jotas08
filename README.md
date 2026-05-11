@@ -1,6 +1,6 @@
 # E aí, João Paulo aqui! :)
 
-Sou um **Analista de Dados**, com perfil analítico, objetivo e orientado à resolução de problemas por meio de dados.
+Sou um profissional apaixonado por dados, com perfil analítico, objetivo e orientado à resolução de problemas por meio deles. Atualmente focado na área de análise.
 
 Tenho experiência em todo o fluxo de dados, desde a **extração, tratamento e transformação**, até a **análise, visualização e construção de relatórios gerenciais e operacionais**. Meu foco é transformar dados em informações claras, úteis e acionáveis para apoiar a tomada de decisão estratégica.
 
