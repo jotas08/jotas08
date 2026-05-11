@@ -6,8 +6,6 @@ Tenho experiência em todo o fluxo de dados, desde a **extração, tratamento e 
 
 Minha formação em **Matemática Industrial pela Universidade Federal do Ceará — UFC** fortalece minha base em **modelagem, estatística, raciocínio lógico e análise quantitativa**, competências que aplico no desenvolvimento de soluções analíticas, automações e pipelines de dados.
 
-Atualmente, venho aprofundando meus conhecimentos em **desenvolvimento web com Django**, **ferramentas de BI**, **cloud computing** e boas práticas de engenharia de dados.
-
 ---
 
 ## Tecnologias e Ferramentas
